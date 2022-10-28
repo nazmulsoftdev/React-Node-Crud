@@ -1,0 +1,31 @@
+.FormWrapper {
+    width: 380px;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border: 1px solid orange;
+}
+
+.FormWrapper input {
+    width: 100%;
+    padding: 10px 7px;
+    box-sizing: border-box;
+    margin-bottom: 13px;
+    border-radius: 3px;
+    border: 3px solid #dff9fb;
+    outline: none;
+}
+
+.SubmitButton {
+    padding: 10px 20px;
+    cursor: pointer;
+    background-color: #2ed573;
+    color: #ffff;
+    transition: all 0.5;
+    border: none;
+    border-radius: 3px;
+}
+
+.SubmitButton:hover {
+    background-color: #ff4757;
+}

@@ -1,0 +1,14 @@
+.Table {
+    width: 70%;
+    padding: 15px;
+    margin: auto;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.TableAction {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: none;
+}
